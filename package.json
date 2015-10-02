@@ -17,7 +17,7 @@
   ],
   "description": "ECMAScript 2015 compliant typeof extension",
   "dependencies": {
-    "mout-lang-type": "^0.4.2"
+    "mout-lang-type": "^0.5.1"
   },
   "devDependencies": {},
   "files": [
@@ -51,5 +51,5 @@
     "type": "git",
     "url": "git://github.com/ChristianGrete/get-type-of.git"
   },
-  "version": "0.4.2"
+  "version": "0.5.1"
 }
